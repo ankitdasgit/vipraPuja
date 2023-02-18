@@ -1,1 +1,1 @@
-# vipraPuja
+# vipraJyotiPuja
